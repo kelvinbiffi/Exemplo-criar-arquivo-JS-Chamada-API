@@ -7,7 +7,7 @@ Siga os comando a baixo para rodar o projeto
 ## Install
 Instalar as dependências para poder rodar o Projeto
 ```
-npm run install
+npm install
 ```
 
 ## Buscar anúncios
